@@ -1,0 +1,14 @@
+D:\DioBootcamp\CellphoneAbstract\CellphoneAbstract\CellphoneAbstract\bin\Debug\net8.0\CellphoneAbstract.exe
+D:\DioBootcamp\CellphoneAbstract\CellphoneAbstract\CellphoneAbstract\bin\Debug\net8.0\CellphoneAbstract.deps.json
+D:\DioBootcamp\CellphoneAbstract\CellphoneAbstract\CellphoneAbstract\bin\Debug\net8.0\CellphoneAbstract.runtimeconfig.json
+D:\DioBootcamp\CellphoneAbstract\CellphoneAbstract\CellphoneAbstract\bin\Debug\net8.0\CellphoneAbstract.dll
+D:\DioBootcamp\CellphoneAbstract\CellphoneAbstract\CellphoneAbstract\bin\Debug\net8.0\CellphoneAbstract.pdb
+D:\DioBootcamp\CellphoneAbstract\CellphoneAbstract\CellphoneAbstract\obj\Debug\net8.0\CellphoneAbstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\DioBootcamp\CellphoneAbstract\CellphoneAbstract\CellphoneAbstract\obj\Debug\net8.0\CellphoneAbstract.AssemblyInfoInputs.cache
+D:\DioBootcamp\CellphoneAbstract\CellphoneAbstract\CellphoneAbstract\obj\Debug\net8.0\CellphoneAbstract.AssemblyInfo.cs
+D:\DioBootcamp\CellphoneAbstract\CellphoneAbstract\CellphoneAbstract\obj\Debug\net8.0\CellphoneAbstract.csproj.CoreCompileInputs.cache
+D:\DioBootcamp\CellphoneAbstract\CellphoneAbstract\CellphoneAbstract\obj\Debug\net8.0\CellphoneAbstract.dll
+D:\DioBootcamp\CellphoneAbstract\CellphoneAbstract\CellphoneAbstract\obj\Debug\net8.0\refint\CellphoneAbstract.dll
+D:\DioBootcamp\CellphoneAbstract\CellphoneAbstract\CellphoneAbstract\obj\Debug\net8.0\CellphoneAbstract.pdb
+D:\DioBootcamp\CellphoneAbstract\CellphoneAbstract\CellphoneAbstract\obj\Debug\net8.0\CellphoneAbstract.genruntimeconfig.cache
+D:\DioBootcamp\CellphoneAbstract\CellphoneAbstract\CellphoneAbstract\obj\Debug\net8.0\ref\CellphoneAbstract.dll
